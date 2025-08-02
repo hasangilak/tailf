@@ -6,6 +6,19 @@ This repository serves as a comprehensive collection of problems and their solut
 
 As a software engineer, encountering technical challenges is part of daily work. This repository documents real-world problems and their solutions, serving as both a personal reference and a resource for others facing similar issues.
 
+## Latest Posts
+
+### Recent Solutions Added
+
+- **[Remote API Coverage Testing with Pest PHP: A Comprehensive Guide](php/remote-coverage-with-pest.md)** *(PHP)*
+  - How to measure code coverage when testing APIs through actual HTTP requests
+  
+- **[Fixing Intel Ethernet Controller I225-V Power Management Issues on Ubuntu 24 LTS](linux/intel-ethernet-power-management.md)** *(Linux)*
+  - Resolving ethernet connectivity issues after sleep/wake cycles
+  
+- **[Ubuntu 24 Wired Network Troubleshooting After Suspend/Wake](linux/wired-network-trouble-shoot.md)** *(Linux)*
+  - Offline-friendly solutions for fixing ethernet connectivity after system suspend
+
 ## Categories
 
 The problems are organized into the following technology categories:
@@ -39,6 +52,7 @@ HTML, CSS, browser compatibility, performance optimization, and general web deve
 
 ### 🔧 Tools & IDEs
 Development environment setup, editor configurations, debugging tools, and productivity utilities.
+
 
 ## Structure
 
